@@ -1,1 +1,0 @@
-# script to train the vggnet-16 model on German traffic sign dataset
